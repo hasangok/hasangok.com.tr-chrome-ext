@@ -1,6 +1,6 @@
 ## hasangok.com.tr-chrome-ext
 
-This is a chrome extension that fetches latest posts from my personal blog (hasangok.com.tr) via rss and displays it in Chrome Browser.
+This is a chrome extension that fetches latest posts from my personal blog (hasangok.com.tr) via rss and displays them in Chrome Browser.
 
 ## Built With
 
