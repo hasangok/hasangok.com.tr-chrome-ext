@@ -1,0 +1,49 @@
+div {
+  width: 400px;
+}
+
+.header {
+  height:48px;
+  font: bold italic 20px Helvetica, Verdana, sans-serif;
+  padding-left: 10px;
+}
+.content {
+  position:relative;
+  height: auto;	
+}​
+
+#loader {
+  text-align: center;
+  width: auto;
+  height: auto;
+}
+ 
+ol {
+  color: #ccc;
+  list-style-type: none;
+}
+ 
+ol li {
+  position: relative;
+  font: bold italic 45px/1.5 Helvetica, Verdana, sans-serif;
+  margin-bottom: 20px;
+}
+ 
+li p {
+  font: 12px/1.5 Helvetica, sans-serif;
+  padding-left: 60px;
+  color: #555;
+}
+ 
+span {
+  position: absolute;
+}
+
+a {
+  font: bold italic Helvetica, Verdana, sans-serif;
+  color: #555;
+}
+
+body {
+  background-color: #F4F4F4;
+}
